@@ -1,0 +1,14 @@
+#album{
+	background-color: white;
+	color: white;
+}
+
+.orange {
+	background-color: orange;
+}
+
+@media all and (max-widht: 779px){
+	.texte_pres{
+		widht: 100% !important;
+	}
+}
